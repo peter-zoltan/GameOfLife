@@ -1,7 +1,7 @@
 This is a Kotlin Multiplatform project targeting Desktop.
 
 It can be run by giving the command "gradlew run" from the directory 
-.where it's sources are located.
+where it's sources are located. Make sure to unzip the "composeApp" directory first.
 
 Afterwards interaction is limited to the 32 by 32 grid of buttons and the four below them,
 (start, stop, reset, randomize) and of course the window controls of your given os :)
